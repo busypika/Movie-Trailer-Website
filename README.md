@@ -24,7 +24,7 @@ Customized Changes:
 
 entertainment_center.py contains all customized informations in a format like:
 'varable_name' = media.Movie('movie_name',
-                             'box_art_image',
+                             'box_art_image',
                              'movie_trailer_link')
 Go ahead and change those things in 'quotes' if you want!
 
